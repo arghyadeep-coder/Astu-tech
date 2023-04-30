@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Astu-tech/static/css/main.73f0afe5.css",
+    "main.js": "/Astu-tech/static/js/main.10dd8e24.js",
+    "static/js/401.14fab0e8.chunk.js": "/Astu-tech/static/js/401.14fab0e8.chunk.js",
+    "static/media/NunitoSansBold.ttf": "/Astu-tech/static/media/NunitoSansBold.44b425aff11a94a8db5f.ttf",
+    "static/media/NunitoSansSemiBold.ttf": "/Astu-tech/static/media/NunitoSansSemiBold.7f7db3f75f1999bd9491.ttf",
+    "static/media/NunitoSansRegular.ttf": "/Astu-tech/static/media/NunitoSansRegular.d41304548dc442233443.ttf",
+    "static/media/PublicSansRegular.ttf": "/Astu-tech/static/media/PublicSansRegular.4923208255b32cd2980c.ttf",
+    "index.html": "/Astu-tech/index.html",
+    "main.73f0afe5.css.map": "/Astu-tech/static/css/main.73f0afe5.css.map",
+    "main.10dd8e24.js.map": "/Astu-tech/static/js/main.10dd8e24.js.map",
+    "401.14fab0e8.chunk.js.map": "/Astu-tech/static/js/401.14fab0e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f0afe5.css",
+    "static/js/main.10dd8e24.js"
+  ]
+}
